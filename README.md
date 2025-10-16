@@ -1,31 +1,34 @@
-Ex.07 Restaurant Website
-Date:17-10-25
-AIM:
+# Ex.07 Restaurant Website
+## Date:17-10-25
+
+## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
 
-DESIGN STEPS:
-Step 1:
+## DESIGN STEPS:
+
+### Step 1:
 Requirement collection.
 
-Step 2:
+### Step 2:
 Creating the layout using HTML and CSS.
 
-Step 3:
+### Step 3:
 Updating the sample content.
 
-Step 4:
+### Step 4:
 Choose the appropriate style and color scheme.
 
-Step 5:
+### Step 5:
 Validate the layout in various browsers.
 
-Step 6:
+### Step 6:
 Validate the HTML code.
 
-Step 7:
+### Step 7:
 Publish the website in the given URL.
 
-PROGRAM:
+## PROGRAM:
+```
 HTML CODE
 
 <!DOCTYPE html>
@@ -462,10 +465,13 @@ CSS CODE
       gap: 15px;
     }
   }
-OUTPUT:
+```
+## OUTPUT:
+
 <img width="1267" height="603" alt="Screenshot 2025-10-17 014205" src="https://github.com/user-attachments/assets/acbfa2fe-eff7-43c1-bf73-8321f4cfbb0f" />
 <img width="1264" height="746" alt="Screenshot 2025-10-17 014230" src="https://github.com/user-attachments/assets/6c9adcc5-0b51-4a96-9b67-28dae329362a" />
 <img width="1264" height="746" alt="Screenshot 2025-10-17 014230" src="https://github.com/user-attachments/assets/f1aa0426-8102-402a-82e5-e8d6303d8359" />
-RESULT:
+
+## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
 
